@@ -1,5 +1,5 @@
 # Setup-Spleeter
-Spleeter setup script that runs on PowerShell.
+Spleeter setup script that runs on PowerShell.  
 Spleeter → https://github.com/deezer/spleeter
 
 ## Requirement
