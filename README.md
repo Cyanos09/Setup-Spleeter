@@ -3,7 +3,7 @@ Spleeter setup script that runs on PowerShell.
 Spleeter → https://github.com/deezer/spleeter
 
 # Requirement
-・Python 3.6.x or Python 3.7.x
+・Python 3.6.x or Python 3.7.x  
 ・pip
 
 # Install
