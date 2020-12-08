@@ -6,7 +6,7 @@ Spleeter → https://github.com/deezer/spleeter
 ・Python 3.6.x or Python 3.7.x
 ・pip
 
-#Install
+# Install
 ```
 git clone https://github.com/Cyanos09/Setup-Spleeter
 ```
